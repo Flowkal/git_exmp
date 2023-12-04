@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.FileIO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security;
@@ -13,6 +14,7 @@ namespace ConsoleApp1
         {
 
             Console.WriteLine("Вот библиотека");
+            new_feature.cycle();
         }
     }
 }

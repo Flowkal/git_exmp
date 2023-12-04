@@ -12,3 +12,17 @@ F:\Users\vag57\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Cons
 F:\Users\vag57\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 F:\Users\vag57\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 F:\Users\vag57\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+U:\git_example\bin\Debug\net6.0\ConsoleApp1.exe
+U:\git_example\bin\Debug\net6.0\ConsoleApp1.deps.json
+U:\git_example\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+U:\git_example\bin\Debug\net6.0\ConsoleApp1.dll
+U:\git_example\bin\Debug\net6.0\ConsoleApp1.pdb
+U:\git_example\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\git_example\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+U:\git_example\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+U:\git_example\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+U:\git_example\obj\Debug\net6.0\ConsoleApp1.dll
+U:\git_example\obj\Debug\net6.0\refint\ConsoleApp1.dll
+U:\git_example\obj\Debug\net6.0\ConsoleApp1.pdb
+U:\git_example\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+U:\git_example\obj\Debug\net6.0\ref\ConsoleApp1.dll

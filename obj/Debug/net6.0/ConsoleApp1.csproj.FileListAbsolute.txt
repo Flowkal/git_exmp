@@ -26,3 +26,17 @@ U:\git_example\obj\Debug\net6.0\refint\ConsoleApp1.dll
 U:\git_example\obj\Debug\net6.0\ConsoleApp1.pdb
 U:\git_example\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 U:\git_example\obj\Debug\net6.0\ref\ConsoleApp1.dll
+U:\c#_project\git_exmp\bin\Debug\net6.0\ConsoleApp1.exe
+U:\c#_project\git_exmp\bin\Debug\net6.0\ConsoleApp1.deps.json
+U:\c#_project\git_exmp\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+U:\c#_project\git_exmp\bin\Debug\net6.0\ConsoleApp1.dll
+U:\c#_project\git_exmp\bin\Debug\net6.0\ConsoleApp1.pdb
+U:\c#_project\git_exmp\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\c#_project\git_exmp\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+U:\c#_project\git_exmp\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+U:\c#_project\git_exmp\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+U:\c#_project\git_exmp\obj\Debug\net6.0\ConsoleApp1.dll
+U:\c#_project\git_exmp\obj\Debug\net6.0\refint\ConsoleApp1.dll
+U:\c#_project\git_exmp\obj\Debug\net6.0\ConsoleApp1.pdb
+U:\c#_project\git_exmp\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+U:\c#_project\git_exmp\obj\Debug\net6.0\ref\ConsoleApp1.dll

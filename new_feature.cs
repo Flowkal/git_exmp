@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static public void cycle()
         {
+            Console.WriteLine("Вывожу 10 раз одно и то же");
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine("Вывожу 10 раз одно и то же");
                 int count = cycle_counter(i);
                 Console.WriteLine(count.ToString() + "-ый раз цикл");
             }

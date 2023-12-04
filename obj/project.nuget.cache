@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fltCWYQuKXNoZ5wx/evUa7dhe2kigksF/WRz765xy8ukFZ6clsoY4BMeIJfL4TY6Wp+faVtB1IDuKuuv8kyuSg==",
+  "dgSpecHash": "V/0zUSe73Bia1tA2gOrN/ZKCxQzkVYVwJFBZwO6Ae+mLHlG1kB+wtBRL3dy4Lj0gO0SD8OCYK+nP51NnLa0VKQ==",
   "success": true,
-  "projectFilePath": "U:\\git_example\\ConsoleApp1.csproj",
+  "projectFilePath": "U:\\c#_project\\git_exmp\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
